@@ -1,5 +1,5 @@
 db.produtos.find(
-    { ingredintes: "picles" },
+    { ingredientes: "picles" },
     {
         _id: false,
         nome: 1,
